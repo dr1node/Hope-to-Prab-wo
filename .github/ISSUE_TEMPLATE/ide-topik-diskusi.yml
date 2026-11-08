@@ -1,0 +1,46 @@
+name: Usulan Topik Diskusi
+description: Ajukan topik baru tentang pemerintahan Indonesia.
+title: "[Diskusi] "
+labels:
+  - diskusi
+body:
+  - type: textarea
+    id: latar-belakang
+    attributes:
+      label: Latar Belakang
+      description: Jelaskan konteks topik yang ingin dibahas.
+      placeholder: Tuliskan latar belakang...
+    validations:
+      required: true
+
+  - type: textarea
+    id: masalah
+    attributes:
+      label: Permasalahan
+      description: Apa persoalan utama yang ingin dibahas?
+    validations:
+      required: true
+
+  - type: textarea
+    id: sumber
+    attributes:
+      label: Sumber atau Referensi
+      description: Cantumkan tautan sumber yang relevan.
+    validations:
+      required: false
+
+  - type: textarea
+    id: pertanyaan
+    attributes:
+      label: Pertanyaan Diskusi
+      description: Apa yang ingin ditanyakan kepada peserta?
+    validations:
+      required: true
+
+  - type: textarea
+    id: solusi
+    attributes:
+      label: Usulan Solusi
+      description: Jika ada, tuliskan gagasan atau rekomendasi.
+    validations:
+      required: false
