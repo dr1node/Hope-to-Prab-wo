@@ -47,7 +47,7 @@ Yuk, ikut berdiskusi bersama!
 
 **Diskusi yang sedang dibuka:**
 
-1. [Gimana sebenarnya kinerja Prabowo selama menjabat sampai sekarang?](https://github.com/dr1node/Hope-to-Prab-wo/discussions/1)
+1. [Gimana sebenarnya kinerja Prabowo selama menjabat sampai sekarang?](https://github.com/dr1node/Hope-to-Prab-wo/discussions/2)
 
 ## Lisensi
 
