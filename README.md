@@ -38,6 +38,17 @@ Jika Discussions belum tersedia, gunakan tab **Issues** sebagai tempat mengusulk
 
 Baca [Panduan Diskusi](docs/panduan-diskusi.md) sebelum berpartisipasi.
 
+
+## 💬 Diskusi Terbuka
+
+Punya pendapat tentang kondisi Indonesia atau kebijakan pemerintah?
+
+Yuk, ikut berdiskusi bersama!
+
+**Diskusi yang sedang dibuka:**
+
+1. [Gimana sebenarnya kinerja Prabowo selama menjabat sampai sekarang?](https://github.com/dr1node/Hope-to-Prab-wo/discussions/1)
+
 ## Lisensi
 
 MIT License
