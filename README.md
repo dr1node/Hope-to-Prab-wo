@@ -1,6 +1,6 @@
 # Ruang Diskusi Negara Tercinta Indonesia 🇮🇩
 
-Tentunya kita tau bahwa lahir sebagai WNI adalah anugrah paling menyengsarakan, pajak di mana-mana, rakyat kecil ditindas, maraknya korupsi, nepotisme, suap dsb.
+Tentunya kita tau bahwa lahir sebagai WNI adalah anugerah paling menyengsarakan, pajak di mana-mana, rakyat kecil ditindas, maraknya korupsi, nepotisme, suap dsb.
 Oleh karena itu marilah berdiskusi, bertukar gagasan, dan menganalisis kebijakan serta tata kelola pemerintahan Indonesia secara terbuka, kritis, dan bertanggung jawab.
 
 ## Tujuan
