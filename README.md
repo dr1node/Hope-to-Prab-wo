@@ -1,6 +1,7 @@
-# Ruang Diskusi Pemerintahan Indonesia 🇮🇩
+# Ruang Diskusi Negara Tercinta Indonesia 🇮🇩
 
-Tempat berdiskusi, bertukar gagasan, dan menganalisis kebijakan serta tata kelola pemerintahan Indonesia secara terbuka, kritis, dan bertanggung jawab.
+Tentunya kita tau bahwa lahir sebagai WNI adalah anugrah paling menyengsarakan, pajak di mana-mana, rakyat kecil ditindas, maraknya korupsi, nepotisme, suap dsb.
+Oleh karena itu marilah berdiskusi, bertukar gagasan, dan menganalisis kebijakan serta tata kelola pemerintahan Indonesia secara terbuka, kritis, dan bertanggung jawab.
 
 ## Tujuan
 
@@ -41,9 +42,9 @@ Baca [Panduan Diskusi](docs/panduan-diskusi.md) sebelum berpartisipasi.
 
 ## 💬 Diskusi Terbuka
 
-Punya pendapat tentang kondisi Indonesia atau kebijakan pemerintah?
+Punya pendapat tentang kondisi WNI atau kebijakan pemerintah?
 
-Yuk, ikut berdiskusi bersama!
+Gasss, ikut berdiskusi bersama!
 
 **Diskusi yang sedang dibuka:**
 
